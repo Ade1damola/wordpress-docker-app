@@ -1,4 +1,4 @@
-# WordPress Blog (Powered by Docker Compose :) )
+## Create your own WordPress Application (Powered by Docker Compose :) )
 
 This project demonstrates how to deploy a complete, functional WordPress website using Docker Compose. It sets up a multi-container application stack consisting of a web application (WordPress) and a database (MySQL), perfect for local development or a quick cloud deployment.
 
