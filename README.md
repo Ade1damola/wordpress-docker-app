@@ -1,4 +1,4 @@
-# WordPress Blog (Powered by Docker Compose :))
+# WordPress Blog (Powered by Docker Compose :) )
 
 This project demonstrates how to deploy a complete, functional WordPress website using Docker Compose. It sets up a multi-container application stack consisting of a web application (WordPress) and a database (MySQL), perfect for local development or a quick cloud deployment.
 
@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed on your system:
     ```
     **Now, open the newly created `.env` file and replace the placeholder values with strong, unique passwords for `MYSQL_ROOT_PASSWORD` and `MYSQL_PASSWORD`.**
 
-    **IMPORTANT:** The `.env` file contains sensitive information and is ignored by Git, so it will NOT be committed to your public repository.
+    The `.env` file contains sensitive information and is ignored by Git, so it will NOT be committed to your public repository.
 
 ### Running the Application
 
