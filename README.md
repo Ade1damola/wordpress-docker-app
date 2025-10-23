@@ -39,6 +39,14 @@ Once you've set up your `.env` file, you can start the entire application stack 
 docker compose up -d
 ```
 
+### Accessing Your WordPress Site
+After the containers have started (this might take a minute or two for the database and WordPress to fully initialize), open your web browser and navigate to:
+
+[http://localhost:8080](http://localhost:8080)
+
+You should see the famous WordPress setup screen! Follow the on-screen instructions to complete your WordPress installation.
+
+
 ### Stopping the Application
 When you're done working on your blog and want to stop the services, run:
 
